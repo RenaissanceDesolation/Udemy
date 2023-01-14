@@ -89,3 +89,48 @@ for (let i = 0; i <= lines; i++) {
 console.log(result)
 */
 
+/*let num = 20;
+
+function showFirstMessage(text) {
+    console.log(text);
+    let num = 10;
+    console.log(num);
+}
+
+showFirstMessage("Hello World!");
+console.log(num);
+
+var x = 3;
+switch (x) {
+    case 1:
+    console.log(x);
+    break;
+    case 2:
+        console.log(x+2);
+    break;
+    default:
+    console.log(x+5);
+}
+*/
+
+/* const usdCurr = 28;
+const discount = 0.9;
+function convert(amount, curr) {
+    return curr * amount;
+}
+function promotion(result) {
+    console.log(result * discount);
+}
+const res = convert(500, usdCurr);
+promotion(res);
+
+function test() {
+    for (let i = 0; i < 5; i++) {
+        console.log(i);
+        if (i === 3) return
+    }
+    console.log('Done');
+}
+test();
+*/
+
